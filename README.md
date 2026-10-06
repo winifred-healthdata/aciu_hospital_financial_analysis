@@ -26,10 +26,10 @@ The analysis was designed to answer key financial questions, including:
 
 ## Tools & Technologies
 
-- Microsoft Excel
-- Power Query
-- Power BI
-- DAX
+- Data Preparation: Microsoft Excel, Power Query
+- Data Modelling: Power BI, dimensional modelling
+- Analytics: DAX
+- Visualization: Power BI
 
 ## Data Preparation
 
