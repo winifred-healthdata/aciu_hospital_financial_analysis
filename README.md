@@ -78,6 +78,7 @@ The Power BI model follows a dimensional modelling approach.
 
 - Date
 - Expense Category
+- Revenue Category
 
 The model separates transactional financial data from descriptive dimension tables to support filtering, aggregation, and financial analysis.
 
