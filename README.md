@@ -110,6 +110,43 @@ The Power BI dashboard provides an overview of financial performance and allows 
 
 ![Detailed Analysis](images/detailed_analysis.jpg)
 
+## Key Insights & Recommendations
+
+### 1. High Revenue Concentration in Drugs
+**Insight:** Drug-related revenue contributed ₦18.57 million, representing 84.93% of total recorded revenue.
+
+**Recommendation:** Management could track drug sales separately from medications provided free of charge to better understand where the hospital's drug revenue comes from.
+
+### 2. Salary and Medication Drive Expenditure
+
+**Insight:** Salary and medication accounted for 54.44% and 32.16% of total expenses respectively. Combined, they represented 86.60% of recorded expenditure.
+
+**Recommendation:** Management could closely monitor staffing and medication costs because changes in these two areas can significantly affect total expenditure.
+
+### 3. Monthly Expenses Are Influenced by Purchase Timing
+
+**Insight:** Monthly expenses varied considerably across the analysed period. Some months recorded substantially higher expenditure, partly because medications may be purchased in bulk and used over several subsequent months.
+
+**Recommendation:** Management could consider medication purchase timing and inventory levels when reviewing monthly expenses rather than evaluating individual months in isolation.
+
+### 3. Overall Financial Performance Was Slightly Negative
+
+**Insight:** Total expenses of ₦22.37 million exceeded total revenue of ₦21.86 million, resulting in a loss of ₦512,865 and a profit margin of -2.3%.
+
+**Recommendation:** Management could regularly monitor the relationship between revenue and expenses and investigate periods where expenditure exceeds revenue.
+
+### 5. Financial Performance Varied Across Months
+
+**Insight:** Monthly financial results varied considerably, ranging from a surplus of ₦852,450 in January to a loss of ₦867,850 in March.
+
+**Recommendation:** Management could investigate the factors behind significant month-to-month changes in financial performance, particularly during months with unusually high expenses or lower revenue.
+
+### 6. Laboratory Services Were the Second-Largest Revenue Source
+
+**Insight:** Laboratory services generated ₦1.96 million, representing 8.96% of total recorded revenue and making it the second-largest revenue category.
+
+**Recommendation:** Management could monitor laboratory utilization and revenue trends alongside patient activity to identify opportunities to strengthen this revenue stream.
+
 ### Data Model
 
 ![Power BI Data Model](images/data_model.png)
