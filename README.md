@@ -1,4 +1,4 @@
-# ACIU Hospital Financial Performance Analysis
+# Hospital Financial Performance Analysis
 
 Financial performance analysis of ACIU Hospital using Excel, Power Query, and Power BI.
 
